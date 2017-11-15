@@ -1,5 +1,5 @@
 'use strict';
-//ravi patidar repo
+//ravi patidar repo secure
 // Declare app level module which depends on views, and components
 angular.module('myApp', [
   'ngRoute',
