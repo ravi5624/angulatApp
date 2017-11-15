@@ -1,5 +1,5 @@
 'use strict';
-//ravi patidar repo secure UAT branch
+//ravi patidar repo secure UAT branch local changes
 // Declare app level module which depends on views, and components
 angular.module('myApp', [
   'ngRoute',
